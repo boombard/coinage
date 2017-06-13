@@ -1,0 +1,2 @@
+data/bitx.csv filter=lfs diff=lfs merge=lfs -text
+data/coinfloor_historical.csv filter=lfs diff=lfs merge=lfs -text
